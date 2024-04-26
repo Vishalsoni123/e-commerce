@@ -1,0 +1,24 @@
+.form{
+    height: 400px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40%;
+}
+.form h1{
+    margin-bottom: 10%;
+}
+
+.form label{
+    font-size: large;
+    font-weight: 600;
+    margin-right: 2rem;
+}
+.form button{
+    border: 1px solid black;
+    margin-right: 2rem;
+}
+
+.form button :hover{
+    color: blue;
+}

@@ -1,0 +1,27 @@
+.maindiv{
+    height: 500px;
+    width: 500px;
+    background-color:rgb(240, 239, 238);
+    margin-left: 35%;
+    margin-bottom: 2rem;
+    border: 1px solid black;
+    box-shadow: 3px 3px;
+}
+.maindiv h1{
+    text-align: center;
+    margin-bottom: 5rem;
+    padding: 10px;
+    font-weight: 700;
+}
+.maindiv button{
+    background-color: green;
+    color: aliceblue;
+    padding: 10px;
+    margin-top: 5rem;
+    
+}
+.maindiv form{
+    text-align: center;
+    size: 5px;
+
+}

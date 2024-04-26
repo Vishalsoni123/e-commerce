@@ -1,0 +1,13 @@
+.aboutpage {
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    text-align: center;
+
+}
+.aboutpage h1{
+    margin-bottom: 5rem;
+}
+.aboutpage p{
+    margin-bottom: 5rem;
+}
